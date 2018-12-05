@@ -18,3 +18,18 @@ Appreciate your help.
 
 Yours faithfully,
 Bhooma
+
+
+Films and computer games with violence are popular. some people believe that it has negative effect on the society and should be banned. others think that it has recreation and entertainment value. Discuss both views and give your opinion.
+
+
+It is true that movies and video games with violent content are becoming increasingly popular among children and teenagers. While some people believe that this has a negative consequences on the society , others would argue that it should be taken as a form of entertainment. My opinion is that it is better to ban movies and games which promotes aggressive behaviour.
+On the one hand, there are people who hold the opinion that watching movies or playing games should be treated as a form of relaxation. The major reason for believing this is that time spent on these are considered as a family bonding activity. For example, most of the games are designed as a multiplayer game. Therefore, members in the family come together to play games which helps to share similar interests and build strong relationships. In addition, people want to get away from a sedentary lifestyle and these aggressive games and movies unwind them from their usual routine.
+Despite the above arguments, I am of the view that violence depicted in media and games encourage aggressive behaviour among children and youngsters. Indeed, one reason why I take this position is that the adolescents are wrongly influenced by the mass media which leads them to imitate the hostile behaviour and perform irresponsible actions. Consequently, there is a drastic increase in the number of juvenile crime due to these impressionable youths. Furthermore, it is my opinion that children are easily irritable because of continuously watching this kind of scenes in movies and games. This will affect kids in their formative years.
+
+In conclusion, while both views are commonly held in society, I believe that films and games which shows violence should be banned because of its influential nature among kids and teenagers and its contribution to the crime in the society.
+
+Write a letter to a HR manager of a company for no response about the result of a  job interview you gave two weeks back even though the interview went well.
+write about the job details
+why you think the interview went well
+why you need to know the results
