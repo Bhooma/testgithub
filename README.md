@@ -83,3 +83,57 @@ https://lit-element.polymer-project.org/try/create
 
 
 reacts, angular - opinionated
+
+
+
+
+
+why to migrate from polymer 2 - Google Search
+Polymer 4 and beyond: what will be deprecated, and what will stay? · Issue #5240 · Polymer/polymer · GitHub
+Reevaluation of next-generation component rewrite · Issue #5231 · Polymer/polymer · GitHub
+Roadmap update, part 1: 3.0 and beyond - Polymer Project
+Polymer 4 and beyond: what will be deprecated, and what will stay? · Issue #5240 · Polymer/polymer · GitHub
+Polymer 4 and beyond: what will be deprecated, and what will stay? · Issue #5240 · Polymer/polymer · GitHub
+(20) Web Components and the Polymer Project: Polymer 3.0 and beyond (Google I/O '18) - YouTube
+Framework Comparisons Guide does not reflect recent changes in Polymer · Issue #1631 · vuejs/vuejs.org · GitHub
+Vue team needs help · Issue #5257 · Polymer/polymer · GitHub
+html imports deprecated - Google Search
+Polymer HTML Imports Deprecated - Stack Overflow
+lit element polymer 2 westbrook - Google Search
+LitElement To Do App – westbrook – Medium
+GitHub - web-padawan/awesome-lit-html: A curated list of awesome lit-html resources.
+Turning up to Lit – westbrook – Medium
+LitElement To Do App – westbrook – Medium
+Lets Build Web Components! Part 1: The Standards - DEV Community 👩‍💻👨‍💻
+The future of Polymer & lit-html
+Generating some next generation web components – westbrook – Medium
+GitHub - web-padawan/awesome-lit-html: A curated list of awesome lit-html resources.
+GitHub - material-components/material-components-web-components: Material Web Components - Material Design implemented as Web Components
+Material Web Components Catalog
+GitHub - wiredjs/wired-elements: Collection of elements that appear hand drawn. Great for wireframes.
+GitHub - LarsDenBakker/lit-html-examples: Examples for using the lit-html library and LitElement base class
+Developing | open-wc
+lit and vaadin - Google Search
+Using Redux in a LitElement app
+Creating a LitElement project
+micro frontend polymer - Google Search
+Building UIs in DevOps / microservices environment part 2— micro-frontends and composite UIs
+GitHub - neuland/micro-frontends: extending the microservice paradigms to web development
+Micro Frontends - extending the microservice idea to frontend development
+vuejs component - Google Search
+Production Deployment — Vue.js
+lit-html stable and final release - Google Search
+Latest releases from the Polymer Project - Polymer Project
+GitHub - Polymer/lit-element: A simple base class for creating fast, lightweight web components
+Use a component – LitElement
+Polymer/lit-element - webcomponents.org
+lit-html and lit-element on stable and final release - Google Search
+Google Devs Experts (@GoogleDevExpert) | Twitter
+A night experimenting with Lit-HTML… – luca mezzalira – Medium
+Lightning-fast templates & Web Components: lit-html & LitElement - Polymer Project
+Use properties – LitElement
+lit-html
+New Tab
+vuejs components - Google Search
+Components Basics — Vue.js
+testgithub/README.md at master · Bhooma/testgithub
